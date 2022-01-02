@@ -1,0 +1,2 @@
+# spycalc
+Extensibly scriptable calculator
