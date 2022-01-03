@@ -1,2 +1,1 @@
-./build.sh
-python3 src/scripts/main.py
+python3 src/spycalc
