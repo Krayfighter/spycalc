@@ -29,7 +29,6 @@ class UpdateWindow(QtWidgets.QDialog):
 
 
 # class for updating calculator in seperate thread
-##### CRITICAL needs updated
 class UpdaterThread(QThread):
 	def __init__(self, parent):
 		QThread.__init__(self)
@@ -39,13 +38,10 @@ class UpdaterThread(QThread):
 		self.wait()
 	
 	def run(self):
-		# if name == 'posix':
-		# 	system('setup/update.sh')
-		# else:
-		# 	system('setup/update.ps1')
-		# self.parent.close()
 		try:
+			# upgrade current version via pip
 			system('pip install --upgrade spycalc')
 		except Exception as e:
+			# may need improvement in the future
 			print('an exception has occurred while updating')
 			print(e)
