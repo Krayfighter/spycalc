@@ -84,3 +84,19 @@ python3 -m pip install spycalc
 #### running
 
 run using ```python3 -m spycalc```
+
+
+## Development Mode
+
+This is recommended for those who intend to extend, or fork spycalc
+
+copy the git repository
+
+```bash
+git clone https://github.com/Krayfighter/spycalc.git
+cd spycalc
+pip install pyqt5, sympy
+./run.sh # run.sh is a basic run script
+```
+
+This may need work in the future but works for now
