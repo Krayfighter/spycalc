@@ -37,7 +37,7 @@ the next step is to install spycalc via python's package manager, pip. If you do
 
 Now, type "power" into the "type here to search" bar on the bottom left of your screen, and run powershell as administrator
 
-![launch powershell](images/ms_pwshl_0.png)
+![launch powershell](https://raw.githubusercontent.com/Krayfighter/spycalc/main/images/ms_pwshl_0.png)
 
 ![powershell](images/ms_pwshl_1.png)
 
