@@ -10,16 +10,16 @@ spycalc is written in pure python, so in theory it should run on
 any system, but it is only tested on Windows 10, and Linux (arch)
 
 
-## Installation
+# Installation
 
 
-### Cross-Platform
+## Cross-Platform
 
 This is the prefered way of installing if you do not really know what you are doing.
 This also assumes that you have no prerequisites like python, pip, git, or any other dev tools
 
 
-#### Windows
+### Windows
 
 The first step here is to install python from the microsoft store.
 
@@ -58,29 +58,29 @@ it tells 'pip' to 'install' 'spycalc'
 
 Now, you have install spycalc on your system.
 
-##### currently only runnable via terminal
+#### currently only runnable via terminal
 
 ```powershell
 py -m spycalc
 ```
 
 
-#### Linux
+### Linux
 
 
-##### arch
+#### arch
 
 sudo pacman -S python3
 
 python3 -m pip install spycalc
 
-##### deb+
+#### deb+
 
 sudo apt install python3
 
 python3 -m pip install spycalc
 
 
-##### running
+#### running
 
 run using ```python3 -m spycalc```
