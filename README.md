@@ -25,11 +25,11 @@ The first step here is to install python from the microsoft store.
 
 It is recommended that you install python 3.10
 
-![search for python](images/ms_store_1.png)
+![search for python](https://raw.githubusercontent.com/Krayfighter/spycalc/main/images/ms_store_1.png)
 
 click the "Get" button, this will then show, and "Install" button, click that button to install python
 
-![install python](images/ms_store_2.png)
+![install python](https://raw.githubusercontent.com/Krayfighter/spycalc/main/images/ms_store_2.png)
 
 you may now close that window
 
@@ -39,7 +39,7 @@ Now, type "power" into the "type here to search" bar on the bottom left of your 
 
 ![launch powershell](https://raw.githubusercontent.com/Krayfighter/spycalc/main/images/ms_pwshl_0.png)
 
-![powershell](images/ms_pwshl_1.png)
+![powershell](https://raw.githubusercontent.com/Krayfighter/spycalc/main/images/ms_pwshl_1.png)
 
 It will bring up a blue screen with white text.
 copy the following text and paste it into the
@@ -52,9 +52,9 @@ pip install spycalc
 this will run a command that is pretty intuitive.
 it tells 'pip' to 'install' 'spycalc'
 
-![pip](images/ms_pwshl_2.png "copy/pasting the command")
+![pip](https://raw.githubusercontent.com/Krayfighter/spycalc/main/images/ms_pwshl_2.png "copy/pasting the command")
 
-![command output](images/ms_pwshl_3.png)
+![command output](https://raw.githubusercontent.com/Krayfighter/spycalc/main/images/ms_pwshl_3.png)
 
 Now, you have install spycalc on your system.
 
